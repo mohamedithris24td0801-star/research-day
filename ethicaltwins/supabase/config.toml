@@ -1,0 +1,7 @@
+project_id = "wdpgeqhzcrajufrnstxc"
+
+[functions.generate-twins]
+verify_jwt = false
+
+[functions.simulate-drug-trial]
+verify_jwt = false
